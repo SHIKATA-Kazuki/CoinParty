@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d2c65acb01557f642b3255440e4a8e27
+labels:
+- manager
+- script
+- editor
+- prize
+timeCreated: 1448895394
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

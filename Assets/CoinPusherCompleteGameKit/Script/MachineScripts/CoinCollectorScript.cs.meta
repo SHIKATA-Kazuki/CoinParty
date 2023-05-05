@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: afa410dd9812f9145998abbbd3756313
+labels:
+- script
+- coin
+- touch
+timeCreated: 1448724565
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

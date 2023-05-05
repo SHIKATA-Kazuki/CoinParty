@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7239fe02cc40b60458b5b3f389a12eb8
+labels:
+- coin
+- script
+- editor
+timeCreated: 1449143118
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

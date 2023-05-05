@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6384a115896aa62489f07212a496dd26
+labels:
+- prefab
+- editor
+- manager
+- script
+- controller
+- touch
+- example
+- scene
+timeCreated: 1448712214
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 46f9050a45a3b8744a2443c06c12190e
+labels:
+- script
+- pusher
+- prefab
+- editor
+timeCreated: 1448704529
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

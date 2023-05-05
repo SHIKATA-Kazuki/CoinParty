@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a87c0747cde24f42a6419dd179098d3
+labels:
+- prefab
+- manager
+- controller
+- pusher
+- wall
+- effect
+- scene
+timeCreated: 1448711547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

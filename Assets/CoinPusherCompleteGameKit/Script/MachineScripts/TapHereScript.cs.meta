@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8c51ff50fc4245f43b4b20e1b05113db
+labels:
+- script
+- touch
+- manager
+- editor
+timeCreated: 1448711127
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
